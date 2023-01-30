@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Marina Paldauf
 feature_text: |
   ## "Life is Awesome. Crazy. Energizing. Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"

@@ -8,27 +8,38 @@ excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this 
 
 This is a starting point for you to get to know me. Read more below and on other pages to get a grasp of what I am and what I strive for.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
-
 ## Main Info
 
-- Name : Marina Paldauf; 
-         You can call me Minnie.
+#### Name : 
 
-- Personality : curious, positive, INFJ, kindhearted, diligent, lucky
+            Marina Paldauf; 
+         You can call me Minnie.categories
+         
+         
+#### Personality : 
 
-- Interests : data science, machine learning, recommender systems, psyschology, environment and human perception of it, natural disaters, health and medicine
+curious, positive, INFJ, kindhearted, diligent, lucky
 
-- Hobbies: diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, volunteering, travelling, gym, writing, cross-country skiing ...
+
+#### Interests : 
+
+data science, machine learning, recommender systems, psyschology, environment and human perception of it, natural disaters, health and medicine
+
+
+#### Hobbies : 
+
+diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, volunteering, travelling, gym, writing, cross-country skiing ...
 
 
 ### Three interesting truths about me :
+
       - The main motivation and dream that guides me and is core to all my decisions and activities in my life is to contribute and directly or indireclty help less fortunate.
       - I strive to create and develop recommender systems to help individuals by reducing their stress and easing their life...
       - Had broken my back, but can luckily still walk.
       
 
 ### Quotes I stand by:
+
       - Never let Dyslexia or other difficulties stop you from believing in yourself.
       - Equality
       - "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
@@ -105,3 +116,4 @@ _(deprecated, not recommended)_
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
+{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}

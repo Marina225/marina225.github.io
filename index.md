@@ -1,18 +1,41 @@
 ---
-title: About Alembic
+title: About Marina
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  "Life is Awesome. Crazy. Energizing. Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this world to help others."
 ---
 
+This is a starting point for you to get to know me. Read more below and on other pages to get a grasp of what I am and what I strive for.
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Features
+## Main Info
 
+- Name : Marina Paldauf; 
+         You can call me Minnie.
+
+- Personality : curious, positive, INFJ, kindhearted, diligent, lucky
+
+- Interests : data science, machine learning, recommender systems, psyschology, environment and human perception of it, natural disaters, health and medicine
+
+- Hobbies: diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, volunteering, travelling, gym, writing, cross-country skiing ...
+
+
+### Three interesting truths about me :
+      - The main motivation and dream that guides me and is core to all my decisions and activities in my life is to contribute and directly or indireclty help less fortunate.
+      - I strive to create and develop recommender systems to help individuals by reducing their stress and easing their life...
+      - Had broken my back, but can luckily still walk.
+      
+
+### Quotes I stand by:
+      - Never let Dyslexia or other difficulties stop you from believing in yourself.
+      - Equality
+      - "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
+      - “The kind of love which makes us stand against everyone and defend a stranger is the strongest one.” 
+      
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
@@ -29,15 +52,15 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
-## Examples
+## External websites
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Here are a few other websties related to interests, work or hobbies:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
-
-## Installation
+- [HICUP Lab](https://bawejakunal.github.io/)
+- [University of Primorska](https://case2111.github.io/)
+- [BioPsi Student Conference](https://www.karateca.org/)
+- [Altifio - Alertiee](https://www.karateca.org/)
+- [Newscrypto](https://www.karateca.org/)
 
 ### Quick setup
 
@@ -84,10 +107,3 @@ _(deprecated, not recommended)_
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.

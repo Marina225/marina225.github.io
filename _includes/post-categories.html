@@ -1,9 +1,9 @@
 {% for category in site.teaching %}
   {% assign category_name = teaching | first %}
   <section class="section  typeset">
-    <h2 id="{{ teaching_name | slugify }}">{{ teaching_name }}</h2>
+    <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
     <ul class="list  list--posts">
-      {% for page in site.categories[teaching_name] %}
+      {% for page in site.teaching[category_name] %}
         {% assign has_teaching = true %}
         <li class="item  item--post">
           <article class="article  article--post  typeset">

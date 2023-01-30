@@ -142,11 +142,11 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/marina-paldauf
   GitHub: https://github.com/marina225
   Personal website: https://marina225.github.io
-  Lab: https://hicup.famnit.upr.si/
+  Lab website: https://hicup.famnit.upr.si/
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  # Twitter: "#0d94e7"
+  # facebook: "#3B5998"
   Email: true
 
 # Load custom fonts from fonts.google.com etc

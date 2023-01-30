@@ -1,8 +1,7 @@
 ---
 title: About Marina
 feature_text: |
-  ## Alembic
-  "Life is Awesome. Crazy. Energizing. Just like research."
+  ## "Life is Awesome. Crazy. Energizing. Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this world to help others."
 ---

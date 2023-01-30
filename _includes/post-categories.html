@@ -1,10 +1,10 @@
-{% for category in site.categories %}
-  {% assign category_name = category | first %}
+{% for category in site.teaching %}
+  {% assign category_name = teaching | first %}
   <section class="section  typeset">
-    <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
+    <h2 id="{{ teaching_name | slugify }}">{{ teaching_name }}</h2>
     <ul class="list  list--posts">
-      {% for page in site.categories[category_name] %}
-        {% assign has_categories = true %}
+      {% for page in site.categories[teaching_name] %}
+        {% assign has_teaching = true %}
         <li class="item  item--post">
           <article class="article  article--post  typeset">
             <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
@@ -18,7 +18,7 @@
   </section>
 {% endfor %}
 
-{% if has_categories != true %}
+{% if has_teaching != true %}
   <section class="section  typeset">
     <p>There are no categorised posts</p>
   </section>

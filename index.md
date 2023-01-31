@@ -49,11 +49,11 @@ This is a starting point for you to get to know me. Read more below and on other
 
 Here are a few other websties related to interests, work or hobbies:
 
-- [HICUP Lab](https://bawejakunal.github.io/)
-- [University of Primorska](https://case2111.github.io/)
-- [BioPsi Student Conference](https://www.karateca.org/)
-- [Altifio - Alertiee](https://www.karateca.org/)
-- [Newscrypto](https://www.karateca.org/)
+- [HICUP Lab](https://hicup.famnit.upr.si/)
+- [University of Primorska](https://www.upr.si/en)
+- [BioPsi Student Conference](https://bio-psi-konferenca.famnit.upr.si/en/)
+- [Altifio - Alertiee]()
+- [Newscrypto]()
 
 
 

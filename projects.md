@@ -1,3 +1,11 @@
+---
+title: Projects
+feature_text: |
+  ## "My journey in short..."
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this world to help others."
+---
+
 
 
 ## My journey
@@ -13,6 +21,28 @@ I am a PhD student at the [University of Primorska](https://www.upr.si/en), more
 Since 2022 I am in the strokovni ekipi at a [BioPsi Student Conference](https://bio-psi-konferenca.famnit.upr.si/en/).
 
 
+
+### Research projects
+
+Indoor air quality (May 2020 - Present)
+
+Distributed recommender systems (October 2022 - Present)
+
+Distributed acousitcs (Jan 2023 -  Present)
+
+
+
+### Organisational projects
+
+Bio Psi Student Conference (November 2022 - Present)
+
+
+
+### Industry related projects
+
+AI sentiment prediction tool (May 2022 - Present)
+
+Search tool - Directory for GLobal fleet provider (June 2021 - Present)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 feature_text: |
   ## "Life is Awesome. Crazy. Energizing. 
   ##        Just like research."
@@ -15,6 +15,9 @@ This is a starting point for you to get to know me. Read more below and on other
 
       Marina Paldauf; 
       But you can call me Minnie.
+      
+
+Read more about my perosnality in the [About](https://marina225.github.io/about/) tab and about my professional journey in the [Projects](https://marina225.github.io/projects/) section.
 
 
 ## External websites :

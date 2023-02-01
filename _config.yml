@@ -127,10 +127,10 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
-- title: Teaching
-  url: /teaching/
-- title: Blog
-  url: /blog/
+- title: Co-operations
+  url: /cooperations/
+#- title: Blog
+#  url: /blog/
 # - title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 

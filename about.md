@@ -2,7 +2,7 @@
 title: ""
 feature_text: | 
          "Life is Awesome. Crazy. Energizing. Just like research."
-feature_image: /images/beach.jpg
+feature_image: /images/cold.jpeg
 aside: true
 ---
 

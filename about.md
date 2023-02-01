@@ -1,11 +1,12 @@
 ---
 title:
 feature_text: |
-  ## "Life is Awesome. Crazy. Energizing. 
-  ##      Just like research."
+"Life is Awesome. Crazy. Energizing. Just like research."
 feature_image: /images/beach.jpg
 aside: true
 ---
+
+### My journey in short ...
 
 This page includes some personal information about me.
 

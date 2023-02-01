@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Marina's Website" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Life is Awesome. Crazy. Energizing. Just like research." # Site description and default description, also used in jekyll-seo-tag
+description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://marina225.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Marina225/marina225.github.io"

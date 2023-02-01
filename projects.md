@@ -3,7 +3,7 @@ title:  My journey in short...
 excerpt: "Projects index"
 aside: true
 feature_text: |
-   "My name is Marina. I'm a PhD student passionate about AI. I'm in this world to help others."
+   My name is Marina. I'm a PhD student passionate about AI. I'm in this world to help others.
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 

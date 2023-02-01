@@ -18,7 +18,7 @@ This is a starting point for you to get to know me. Read more below and on other
 Read more about my perosnality in the [About](https://marina225.github.io/about/) tab and about my professional journey in the [Projects](https://marina225.github.io/projects/) section.
 
 
-## External websites :
+#### External websites :
 
 Here are a few other websties related to my interests, work or hobbies:
 

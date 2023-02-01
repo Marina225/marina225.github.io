@@ -1,5 +1,5 @@
 ---
-title: Projects
+title:  My journey
 excerpt: "Projects index"
 aside: true
 feature_text: |
@@ -9,8 +9,6 @@ excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this 
 ---
 
 
-
-## My journey
 
 Before embarking on a research (PhD) journey, I started my IT career path as a backend/data intern and engineer at Urgentem (ADD WEBSITE) in 2019. After that I enrolled in a MSc in Data Science during which I worked as a senior data scientist and project manager at [Altifio - Alertiee](). I am currently cooperating as a data scientist and advisor at [Newscrypto](). 
 I strive to remain being involved with the industry.
@@ -43,6 +41,7 @@ Bio Psi Student Conference (November 2022 - Present)
 ### Teaching
 
 Course Computer practicum 1 atFAMNIT, University of Primorska (October 2022 - Present)
+
 
 
 ### More

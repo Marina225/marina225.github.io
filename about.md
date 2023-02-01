@@ -1,7 +1,8 @@
 ---
 title: About Me
 feature_text: |
-  ## "Life is Awesome. Crazy. Energizing. Just like research."
+  ## "Life is Awesome. Crazy. Energizing. 
+  ##      Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
@@ -57,7 +58,9 @@ aside: true
       defend a stranger is the strongest one.”  
       
 
-
+### Volunteering
+- [Disaster help - Redcross](https://www.rks.si/)
+- [Amina](https://twitter.com/aminamwrc)
 
 
 

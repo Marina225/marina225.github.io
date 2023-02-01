@@ -4,7 +4,7 @@ excerpt: "Projects index"
 aside: true
 feature_text: |
   Life is Awesome. Crazy. Energizing. Just like research.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: /Images/clif.jpg
 ---
 
 Before embarking on a research (PhD) journey, I started my IT career path as a backend/data intern and engineer at [Urgentem](https://www.urgentem.net/) in 2019. After that I enrolled in a MSc in Data Science during which I worked as a senior data scientist and project manager at [Altifio - Alertiee](https://alertiee.io/). I am currently cooperating as a data scientist and advisor at [Newscrypto](https://newscrypto.io/). 

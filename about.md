@@ -7,28 +7,27 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
 
-             This page includes some personal information about me.
-
+      This page includes some personal information about me.
 
          
 #### Personality : 
 
-   extremely curious, positive, INFJ, kindhearted, 
-   diligent, lucky, clumsy, paradoxically organised
+      extremely curious, positive, INFJ, kindhearted, 
+      diligent, lucky, clumsy, paradoxically organised
 
 
 
 #### Interests : 
 
-   data science, machine learning, recommender systems, psyschology, 
-   environment and human perception of it, natural disaters, health, medicine
+      data science, machine learning, recommender systems, psyschology, 
+      environment and human perception of it, natural disaters, health, medicine
 
 
 
 #### Hobbies : 
 
-   diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, 
-   volunteering, travelling, gym, writing, cross-country skiing ...
+      diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, 
+      volunteering, travelling, gym, writing, cross-country skiing ...
 
 
 
@@ -44,7 +43,7 @@ aside: true
       
 
 
-### Quotes I stand by:
+### Quotes I stand by :
 
       - "Never let Dyslexia or other difficulties stop you from believing 
       in yourself."
@@ -55,9 +54,9 @@ aside: true
       defend a stranger is the strongest one.”  
       
 
-### Volunteering
-- [Disaster help - Redcross](https://www.rks.si/)
-- [Amina](https://twitter.com/aminamwrc)
+### Volunteering :
+    - [Disaster help - Redcross](https://www.rks.si/)
+    - [Amina](https://twitter.com/aminamwrc)
 
 
 

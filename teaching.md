@@ -1,6 +1,6 @@
 ---
-title: Teaching
-layout: teaching
-excerpt: "Teaching index"
+title: cooperation
+layout: cooperation
+excerpt: "cooperation index"
 aside: true
 ---

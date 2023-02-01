@@ -10,7 +10,7 @@ aside: true
 "I'm a PhD student and a data scientist. Passionate about AI and in this world to help others."
 
 
-                      This page includes some personal information about me.
+             This page includes some personal information about me.
 
 
          

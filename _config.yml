@@ -140,9 +140,10 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/marina-paldauf
-  GitHub: https://github.com/marina225
+  # GitHub: https://github.com/marina225
   Personal website: https://marina225.github.io
   Lab website: https://hicup.famnit.upr.si/
+  University profile: https://www.famnit.upr.si/en/about-faculty/staff/marina.paldauf/
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   # Twitter: "#0d94e7"

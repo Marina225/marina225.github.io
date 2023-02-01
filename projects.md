@@ -42,9 +42,9 @@ Course Computer practicum 1 atFAMNIT, University of Primorska (October 2022 - Pr
 
 
 
-### Educational History
+### Education
 
-Unergraduate degree for Faculty of Economics at the Unievrsity of Ljubljana majoring in Finance 
+Obtained an unergraduate degree at the Faculty of Economics at the Unievrsity of Ljubljana majoring in Finance 
 and a MSc from University of Edinburgh in the field of Carbon Finance (i.e. Climate and Environmental Finance). 
 
 Currently, undergoing a second masters in Data Science and a PhD programme in Computer science.

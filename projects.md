@@ -5,7 +5,6 @@ aside: true
 feature_text: |
    "My name is Marina. I'm a PhD student passionate about AI. I'm in this world to help others."
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "My name is Marina. I'm a PhD student passionate about AI. I'm in this world to help others."
 ---
 
 
@@ -54,5 +53,5 @@ Currently, undergoing a second masters in Data Science and a PhD programme in Co
 
 ### More
 
-For more information you can reach out to me via email marina.paldauf@gmail.com or view my [LinkedIn page](https://www.linkedin.com/in/marina-paldauf/).
+For more information or a chat you can reach out to me via email marina.paldauf@gmail.com or view my [LinkedIn page](https://www.linkedin.com/in/marina-paldauf/).
 

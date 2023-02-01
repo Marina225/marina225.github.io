@@ -3,11 +3,11 @@ title:
 feature_text: |
   ## "Life is Awesome. Crazy. Energizing. 
   ##      Just like research."
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: /images/beach.jpg
 aside: true
 ---
 
-      This page includes some personal information about me.
+This page includes some personal information about me.
 
          
 #### Personality : 
@@ -33,12 +33,11 @@ aside: true
 
 #### Three interesting truths about me :
 
-      - The main motivation and dream that guides me and is 
-      core to all my decisions and activities in my life is to
-      contribute and directly or indireclty help less fortunate.
-      - I strive to create and develop recommender systems to 
-      help individuals by reducing their stress and easing their 
-      life...
+      - The main motivation and dream that guides me and is core to all my 
+      decisions and activities in my life is to contribute and directly or 
+      indireclty help less fortunate.
+      - I strive to create and develop recommender systems to help individuals 
+      by reducing their stress and easing their life...
       - Had broken my back, but can luckily still walk.
       
 

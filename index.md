@@ -5,6 +5,7 @@ feature_text: |
   ##        Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this world to help others."marinapaldauf
+aside: true
 ---
 
 This is a starting point for you to get to know me. Read more below and on other pages to get a grasp of what I am and what I strive for.

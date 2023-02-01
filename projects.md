@@ -45,5 +45,7 @@ Bio Psi Student Conference (November 2022 - Present)
 Course Computer practicum 1 atFAMNIT, University of Primorska (October 2022 - Present)
 
 
+### More
 
+For more information you can dowload my CV of view my LinkedIn page.
 

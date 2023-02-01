@@ -16,26 +16,31 @@ aside: true
          
 #### Personality : 
 
-         extremely curious, positive, INFJ, kindhearted, diligent, lucky, clumsy, paradoxically organised
+   extremely curious, positive, INFJ, kindhearted, 
+   diligent, lucky, clumsy, paradoxically organised
 
 
 
 #### Interests : 
 
-         data science, machine learning, recommender systems, psyschology, environment and human perception of it, natural disaters, health, medicine
+   data science, machine learning, recommender systems, psyschology, 
+   environment and human perception of it, natural disaters, health, medicine
 
 
 
 #### Hobbies : 
 
-         diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, volunteering, travelling, gym, writing, cross-country skiing ...
+   diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, 
+   volunteering, travelling, gym, writing, cross-country skiing ...
 
 
 
 #### Three interesting truths about me :
 
-      - The main motivation and dream that guides me and is core to all my decisions and activities in my life is to contribute and directly or indireclty help less fortunate.
-      - I strive to create and develop recommender systems to help individuals by reducing their stress and easing their life...
+      - The main motivation and dream that guides me and is core to all my decisions 
+      and activities in my life is to contribute and directly or indireclty help less fortunate.
+      - I strive to create and develop recommender systems to help individuals by 
+      reducing their stress and easing their life...
       - Had broken my back, but can luckily still walk.
       
 

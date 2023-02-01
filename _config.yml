@@ -127,8 +127,8 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
-- title: Co-operations
-  url: /cooperations/
+#- title: Co-operations
+#  url: /cooperations/
 #- title: Blog
 #  url: /blog/
 # - title: Fork Alembic

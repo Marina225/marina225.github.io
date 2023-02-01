@@ -10,28 +10,28 @@ aside: true
 This page includes some personal information about me.
 
          
-#### Personality : 
+##### Personality : 
 
   extremely curious, positive, INFJ, kindhearted, 
   diligent, lucky, clumsy, paradoxically organised
 
 
 
-#### Interests : 
+##### Interests : 
 
   data science, machine learning, recommender systems, psyschology, 
   environment and human perception of it, natural disaters, health, medicine
 
 
 
-#### Hobbies : 
+##### Hobbies : 
 
   diving, puzzles, thinking, hiking, yoga, Marvel, documentaries, 
   volunteering, travelling, gym, writing, cross-country skiing ...
 
 
 
-#### Three interesting truths about me :
+##### Three interesting truths about me :
 
     - The main motivation and dream that guides me and is core to all my 
     decisions and activities in my life is to contribute and directly or 
@@ -42,7 +42,7 @@ This page includes some personal information about me.
       
 
 
-### Quotes I stand by :
+##### Quotes I stand by :
 
     - "Never let Dyslexia or other difficulties stop you from believing 
     in yourself."
@@ -53,7 +53,7 @@ This page includes some personal information about me.
     defend a stranger is the strongest one.”  
       
 
-### Volunteering :
+##### Volunteering :
     - [Disaster help - Redcross] (https://www.rks.si/)
     - [Amina] (https://twitter.com/aminamwrc)
 

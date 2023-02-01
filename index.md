@@ -6,7 +6,9 @@ feature_image: /Images/waves.jpg
 aside: true
 ---
 
-This is a starting point for you to get to know me. Read more below and on other pages to get a grasp of what I am and what I strive for.
+This is a starting point for you to get to know me. 
+I'm a PhD student passionate about AI. I'm in this world to help others.
+Read more below and on other pages to get a grasp of what I am and what I strive for.
 
 
 #### Name : 

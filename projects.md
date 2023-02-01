@@ -7,8 +7,6 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-# My journey in short...
-
 Before embarking on a research (PhD) journey, I started my IT career path as a backend/data intern and engineer at [Urgentem](https://www.urgentem.net/) in 2019. After that I enrolled in a MSc in Data Science during which I worked as a senior data scientist and project manager at [Altifio - Alertiee](https://alertiee.io/). I am currently cooperating as a data scientist and advisor at [Newscrypto](https://newscrypto.io/). 
 I strive to remain being involved with the industry.
 

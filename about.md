@@ -1,14 +1,11 @@
 ---
-title: About Me
+title:
 feature_text: |
   ## "Life is Awesome. Crazy. Energizing. 
   ##      Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
-
-"I'm a PhD student and a data scientist. Passionate about AI and in this world to help others."
-
 
              This page includes some personal information about me.
 

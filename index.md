@@ -2,7 +2,7 @@
 title:
 feature_text: |
    Life is Awesome. Crazy. Energizing. Just like research.
-feature_image: /Images/beach.jpg
+feature_image: /Images/waves.jpg
 aside: true
 ---
 

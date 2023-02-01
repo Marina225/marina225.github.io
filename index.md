@@ -1,7 +1,8 @@
 ---
 title: Home
 feature_text: |
-  ## "Life is Awesome. Crazy. Energizing. Just like research."
+  ## "Life is Awesome. Crazy. Energizing. 
+  ##        Just like research."
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "My name is Marina. I'm a PhD student. Passionate about AI and in this world to help others."
 ---
@@ -11,8 +12,8 @@ This is a starting point for you to get to know me. Read more below and on other
 
 #### Name : 
 
-         Marina Paldauf; 
-         You can call me Minnie.
+      Marina Paldauf; 
+      You can call me Minnie.
 
 
 ## External websites

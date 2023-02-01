@@ -1,9 +1,8 @@
 ---
 title:
 feature_text: |
-  ## "Life is Awesome. Crazy. Energizing. 
-  ##        Just like research."
-feature_image: "https://picsum.photos/1300/400?image=989"
+   "Life is Awesome. Crazy. Energizing. Just like research."
+feature_image: /Images/beach.jpg
 aside: true
 ---
 
